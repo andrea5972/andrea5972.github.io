@@ -68,12 +68,12 @@
         }
 
         .main-header-intro {
-            line-height: 1.6;
+            font-size: 2.5em;
             width: 50%;
             margin: auto;
             padding: 40px;
             color: #f7f8f9;
-            text-align: justify;
+            text-align: center;
         }
 
         .intro {
