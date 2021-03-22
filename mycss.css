@@ -68,11 +68,11 @@
         }
 
         .main-header-intro {
-            line-height: 1.5em;
+            line-height: 1.6;
             width: 50%;
             margin: auto;
             padding: 40px;
-            color: white;
+            color: #f7f8f9;
             text-align: justify;
         }
 
