@@ -128,3 +128,19 @@ a {
     font-weight: normal;
     padding-left: 75px;
 }
+
+a:hover {
+    color: gold;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: blue;
+    }
+}
+
+@media only screen and (min-width: 601px) {
+    body{
+        background-color: pink;
+    }
+}
